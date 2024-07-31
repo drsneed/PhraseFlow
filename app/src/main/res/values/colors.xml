@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define shades of orange -->
+    <color name="orange_200">#FF232F34</color> <!-- Light Orange -->
+    <color name="orange_500">#FF344955</color> <!-- Medium Orange -->
+    <color name="orange_700">#FF4A6572</color> <!-- Dark Orange -->
+    <color name="guessed_letter_background">#FF888888</color> <!-- Example color -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Define shades of black -->
+    <color name="black_500">#FF000000</color> <!-- Standard Black -->
+    <color name="black_700">#FF1C1C1C</color> <!-- Darker Black -->
+
+    <!-- Define neutral colors -->
+    <color name="white">#FFFFFFFF</color>
+</resources>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<resources>-->
+
+    <!--</resources>-->
